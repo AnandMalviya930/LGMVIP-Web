@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/LGMVIP-Web/static/css/main.f242ffbb.css",
+    "main.js": "/LGMVIP-Web/static/js/main.5b54a828.js",
+    "static/js/787.b5ebcece.chunk.js": "/LGMVIP-Web/static/js/787.b5ebcece.chunk.js",
+    "index.html": "/LGMVIP-Web/index.html",
+    "main.f242ffbb.css.map": "/LGMVIP-Web/static/css/main.f242ffbb.css.map",
+    "main.5b54a828.js.map": "/LGMVIP-Web/static/js/main.5b54a828.js.map",
+    "787.b5ebcece.chunk.js.map": "/LGMVIP-Web/static/js/787.b5ebcece.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f242ffbb.css",
+    "static/js/main.5b54a828.js"
+  ]
+}
